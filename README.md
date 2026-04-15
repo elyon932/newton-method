@@ -1,4 +1,17 @@
+<div align="center">
+
 # Newton Method — Professional Suite
+
+</div>
+
+<div align="center">
+
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+</div>
+
+---
 
 A high-precision numerical analysis desktop application designed for finding and refining roots of non-linear functions. This suite combines the symbolic power of SymPy with the high-precision numerical capabilities of mpmath, wrapped in a modern, user-centric interface.
 
@@ -99,7 +112,3 @@ The codebase follows standard PEP 8 guidelines for Python. The UI implementation
 
 **Elyon Oliveira dos Santos**  
 Software Developer
-
-## License
-
-This project is licensed under the MIT License.
